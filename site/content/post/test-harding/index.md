@@ -12,4 +12,4 @@ This is another paragraph, followed by a section break.
 
 This is another image:
 
-![](59d7d8b624237d37f55de564b4624126-uncropped_scaled_within_1536_1152.webp)
+![Backyard image](59d7d8b624237d37f55de564b4624126-uncropped_scaled_within_1536_1152.webp)
